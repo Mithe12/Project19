@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SimpleNote</string>
+    <string name="ip_address">Ip Address</string>
+    <string name="port_no">Enter the port number</string>
+    <string name="connect_button">Connect</string>
+    <string name="button_createnote">Create Note</string>
+    <string name="button_readnote">Read Note</string>
+    <string name="button_deletenote">Delete Note</string>
+    <string name="button_displaynotes">Display Note</string>
+    <string name="button_writenote">Create</string>
+    <string name="button_read">Read</string>
+    <string name="button_delete">Delete</string>
+</resources>
